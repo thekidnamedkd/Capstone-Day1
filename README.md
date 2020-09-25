@@ -20,8 +20,11 @@
 * _01:30 PM - Lunch_
 * _02:00 PM - Begin wireframe sketches_
 * _02:30 PM - Upload first sketch_
-
+* _03:00 PM - Second sketch for user/artist view_
+* _03:30 PM - Upload second sketch, switch to Figma diagram_
+* _04:00 PM -_
 
 #### 🎨 Mockups & Artwork
 
 ![first_sketch](https://i.ibb.co/k6gpPwh/Doc-Sep-25-2020-14-37-1.jpg)
+![second_sketch](https://i.ibb.co/D4RvH74/Doc-Sep-25-2020-15-45-1.jpg)
