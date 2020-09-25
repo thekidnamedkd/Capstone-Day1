@@ -2,6 +2,8 @@
 #### A capstone preparation tracker for 'C#/.NET + React' graduation from Epicodus
 ##### ✏️ Kevin Davis
 
+![Revised Capstone Proposal](https://docs.google.com/document/d/e/2PACX-1vTb3MhRA7JrtOa12h0UJEWo3fxbL_m_mRUNcDtQTV40313wNDkZ_yljUM9k5iUJS4BTQpmVdK3kLs4s/pub)
+
 <hr />
 
 #### 📓 Work Log - Friday Sept. 25, 2020 
@@ -22,9 +24,11 @@
 * _02:30 PM - Upload first sketch_
 * _03:00 PM - Second sketch for user/artist view_
 * _03:30 PM - Upload second sketch, switch to Figma diagram_
-* _04:00 PM -_
+* _04:00 PM - Add capstone proposal link_
+* _04:30 PM - Add first Figma mockup (incomplete)_
 
 #### 🎨 Mockups & Artwork
 
 ![first_sketch](https://i.ibb.co/k6gpPwh/Doc-Sep-25-2020-14-37-1.jpg)
 ![second_sketch](https://i.ibb.co/D4RvH74/Doc-Sep-25-2020-15-45-1.jpg)
+![first_figma](https://i.ibb.co/vcC27Cx/dot-Gain-diagram.png)
