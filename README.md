@@ -14,4 +14,6 @@
 * _10:30 AM - Start researching stack options_
 * _11:00 AM - Looking into Mapbox instead of Google Maps_
 * _11:30 AM - 20 minute break_
-* _12:00 PM -_
+* _12:00 PM - Looking into Firebase as one stop shop for database and hosting._
+* _12:30 PM - Still exploring Firebase for object hosting._
+* _01:00 PM -_
