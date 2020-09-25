@@ -10,4 +10,5 @@
 * _08:30 AM - Break down User Stories into single behaviors_
 * _09:00 AM - Continue User Stories towards MVP_
 * _09:30 AM - Break down MVP_
-* _10:00 AM -_
+* _10:00 AM - Continue working on MVP and time calculations_
+* _10:30 AM -_
