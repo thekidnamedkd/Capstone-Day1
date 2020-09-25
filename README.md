@@ -11,4 +11,5 @@
 * _09:00 AM - Continue User Stories towards MVP_
 * _09:30 AM - Break down MVP_
 * _10:00 AM - Continue working on MVP and time calculations_
-* _10:30 AM -_
+* _10:30 AM - Start researching stack options_
+* _11:00 AM -_
