@@ -16,4 +16,7 @@
 * _11:30 AM - 20 minute break_
 * _12:00 PM - Looking into Firebase as one stop shop for database and hosting._
 * _12:30 PM - Still exploring Firebase for object hosting._
-* _01:00 PM -_
+* _01:00 PM - Lunch_
+* _01:30 PM - Lunch_
+* _02:00 PM - Begin wireframe sketches_
+* _02:30 PM -_
