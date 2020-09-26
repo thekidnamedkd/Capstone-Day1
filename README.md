@@ -26,9 +26,11 @@
 * _03:30 PM - Upload second sketch, switch to Figma diagram_
 * _04:00 PM - Add capstone proposal link_
 * _04:30 PM - Add first Figma mockup (incomplete)_
+* _05:00 PM - Add first Figma mockup (complete)_
 
 #### 🎨 Mockups & Artwork
 
 ![first_sketch](https://i.ibb.co/k6gpPwh/Doc-Sep-25-2020-14-37-1.jpg)
 ![second_sketch](https://i.ibb.co/D4RvH74/Doc-Sep-25-2020-15-45-1.jpg)
 ![first_figma](https://i.ibb.co/vcC27Cx/dot-Gain-diagram.png)
+![second_figma](https://i.ibb.co/ZNBtj2y/dot-Gain-diagram-1-5.png)
