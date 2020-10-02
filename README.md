@@ -44,12 +44,12 @@
 * _12:00 PM - Read documentation for GraphQL & GraphCMS_
 * _12:30 PM - Begin making accounts to access API's for .env file_ 
 * _01:00 PM - Add basic stack services below_
-* _01:30 PM -_ 
-* _02:00 PM -_ 
-* _02:30 PM -_
-* _03:00 PM -_
-* _03:30 PM -_
-* _04:00 PM -_
+* _01:30 PM - Get Gyazo to start logging GIFs for documentation_ 
+* _02:00 PM - Buy domain and set up email for portfolio_ 
+* _02:30 PM - Work on more API keys and Gatsby development_
+* _03:00 PM - Lunch_
+* _03:30 PM - Lunch_
+* _04:00 PM - Implement keys to project_
 * _04:30 PM -_
 * _05:00 PM -_
 
@@ -65,6 +65,9 @@
 - **[Gatsby](https://gatsbyjs.org)**: Statically build product pages and handle cart/checkout logic.
 - **[Postmark](https://postmarkapp.com)**: Deliver order received and dispatched email notifications to customers.
 - **[Printful](https://printful.com)**: Create inventory and drop ship with ease.
+
+#### Auxillary Software
+- **[Gyazo](https://gyazo.com)**: Capture GIFs from your machine to add rich media to documentation.
 
 #### 🎨 Mockups & Artwork
 
