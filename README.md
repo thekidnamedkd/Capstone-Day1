@@ -41,9 +41,9 @@
 * _10:30 AM - Revist wireframes and MVP with new info_
 * _11:00 AM - Clone new start to explore GraphCMS_
 * _11:30 AM - Trouble shoot new starter_
-* _12:00 PM -_
-* _12:30 PM -_ 
-* _01:00 PM -_
+* _12:00 PM - Read documentation for GraphQL & GraphCMS_
+* _12:30 PM - Begin making accounts to access API's for .env file_ 
+* _01:00 PM - Add basic stack services below_
 * _01:30 PM -_ 
 * _02:00 PM -_ 
 * _02:30 PM -_
@@ -53,6 +53,13 @@
 * _04:30 PM -_
 * _05:00 PM -_
 
+#### API's and Microservices
+
+* GraphCMS: Localised product content, reviews, and order management.
+* Stripe: Used to securely process payments and Strong Customer Authentication.
+* Gatsby: Statically build product pages and handle cart/checkout logic.
+* Postmark: Deliver order received and dispatched email notifications to customers.
+* Printful: Create inventory and drop ship with ease.
 
 #### 🎨 Mockups & Artwork
 
