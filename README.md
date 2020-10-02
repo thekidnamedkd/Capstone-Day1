@@ -36,7 +36,7 @@
 * _08:00 AM - Begin assessing days work_
 * _08:30 AM - Make repo for actual project (see 'Capstone Project Repo' link above)_ 
 * _09:00 AM - Start considering Gatsby Starters_
-* _09:30 AM - Research Stripe, Shopify, GraphCMS, _
+* _09:30 AM - Research Stripe, Shopify, GraphCMS, etc_
 * _10:00 AM - Clone starter for store_
 * _10:30 AM - Revist wireframes and MVP with new info_
 * _11:00 AM - Clone new start to explore GraphCMS_
