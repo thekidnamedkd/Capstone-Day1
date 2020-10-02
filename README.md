@@ -53,8 +53,12 @@
 * _04:30 PM -_
 * _05:00 PM -_
 
-#### API's and Microservices
+#### Notes & Blurbs for Presentation
 
+* _"I chose Gatsby to quickly bootstrap a project within a React framework by combining the speed and convenience of GraphQL with a basic frontend."_
+* _"I found the GraphCMS ecommerce starter within Gatsby to take advantage of this bootstrap while embracing the Content Mesh of microservices including Stripe, Postmark, and Printful to quickly spin up a proof of concept."_
+
+#### API's and Microservices
 
 - **[GraphCMS](https://graphcms.com)**: Localised product content, reviews, and order management.
 - **[Stripe](https://stripe.com)**: Used to securely process payments and Strong Customer Authentication.
