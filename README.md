@@ -55,11 +55,12 @@
 
 #### API's and Microservices
 
-* GraphCMS: Localised product content, reviews, and order management.
-* Stripe: Used to securely process payments and Strong Customer Authentication.
-* Gatsby: Statically build product pages and handle cart/checkout logic.
-* Postmark: Deliver order received and dispatched email notifications to customers.
-* Printful: Create inventory and drop ship with ease.
+
+- **[GraphCMS](https://graphcms.com)**: Localised product content, reviews, and order management.
+- **[Stripe](https://stripe.com)**: Used to securely process payments and Strong Customer Authentication.
+- **[Gatsby](https://gatsbyjs.org)**: Statically build product pages and handle cart/checkout logic.
+- **[Postmark](https://postmarkapp.com)**: Deliver order received and dispatched email notifications to customers.
+- **[Printful](https://printful.com)**: Create inventory and drop ship with ease.
 
 #### 🎨 Mockups & Artwork
 
