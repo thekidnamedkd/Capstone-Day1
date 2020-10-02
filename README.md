@@ -1,12 +1,14 @@
-# 'dotGain' - Day 1 Independent Study
+# 'dotGain' - a Headless CMS + Sustainable Vendor for Social Justice Art
 #### A capstone preparation tracker for 'C#/.NET + React' graduation from Epicodus
 ##### ✏️ Kevin Davis
 
-![Revised Capstone Proposal](https://docs.google.com/document/d/e/2PACX-1vTb3MhRA7JrtOa12h0UJEWo3fxbL_m_mRUNcDtQTV40313wNDkZ_yljUM9k5iUJS4BTQpmVdK3kLs4s/pub)
-
+* ![Revised Capstone Proposal](https://docs.google.com/document/d/e/2PACX-1vTb3MhRA7JrtOa12h0UJEWo3fxbL_m_mRUNcDtQTV40313wNDkZ_yljUM9k5iUJS4BTQpmVdK3kLs4s/pub)
+* ![Capstone Project Repo](https://github.com/thekidnamedkd/Capstone_KD)
 <hr />
 
-#### 📓 Work Log - Friday Sept. 25, 2020 
+#### 📓 Work Log - 
+
+##### Friday Sept. 25, 2020 
 
 * _08:00 AM - Reapproach proposal, begin to synthesize feedback and notes since submission_
 * _08:30 AM - Break down User Stories into single behaviors_
@@ -27,6 +29,30 @@
 * _04:00 PM - Add capstone proposal link_
 * _04:30 PM - Add first Figma mockup (incomplete)_
 * _05:00 PM - Add first Figma mockup (complete)_
+
+##### Friday Oct. 2, 2020 
+
+
+* _08:00 AM - Begin assessing days work_
+* _08:30 AM - Make repo for actual project (see above)_ 
+* _09:00 AM - Start considering Gatsby Starters_
+* _09:30 AM - Research Stripe, Shopify, GraphCMS, _
+* _10:00 AM - Clone starter for store_
+* _10:30 AM - Revist wireframes and MVP with new info_
+* _11:00 AM -_
+* _11:30 AM -_
+* _12:00 PM -_
+* _12:30 PM -_ 
+* _01:00 PM -_
+* _01:30 PM -_ 
+* _02:00 PM -_ 
+* _02:30 PM -_
+* _03:00 PM -_
+* _03:30 PM -_
+* _04:00 PM -_
+* _04:30 PM -_
+* _05:00 PM -_
+
 
 #### 🎨 Mockups & Artwork
 
