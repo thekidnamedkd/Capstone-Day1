@@ -1,4 +1,4 @@
-# 'dotGain' - a Headless CMS + Sustainable Vendor for Social Justice Art
+# 'dotGain' | Headless CMS + Sustainable Vendor for Social Justice Art
 #### A capstone preparation tracker for 'C#/.NET + React' graduation from Epicodus
 ##### ✏️ Kevin Davis
 
@@ -34,13 +34,13 @@
 
 
 * _08:00 AM - Begin assessing days work_
-* _08:30 AM - Make repo for actual project (see above)_ 
+* _08:30 AM - Make repo for actual project (see 'Capstone Project Repo' link above)_ 
 * _09:00 AM - Start considering Gatsby Starters_
 * _09:30 AM - Research Stripe, Shopify, GraphCMS, _
 * _10:00 AM - Clone starter for store_
 * _10:30 AM - Revist wireframes and MVP with new info_
-* _11:00 AM -_
-* _11:30 AM -_
+* _11:00 AM - Clone new start to explore GraphCMS_
+* _11:30 AM - Trouble shoot new starter_
 * _12:00 PM -_
 * _12:30 PM -_ 
 * _01:00 PM -_
