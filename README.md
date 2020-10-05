@@ -50,8 +50,8 @@
 * _03:00 PM - Lunch_
 * _03:30 PM - Lunch_
 * _04:00 PM - Implement keys to project_
-* _04:30 PM -_
-* _05:00 PM -_
+* _04:30 PM - More work the APIs_
+* _05:00 PM - More work the APIs_
 
 #### Notes & Blurbs for Presentation
 
