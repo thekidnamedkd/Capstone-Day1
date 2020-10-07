@@ -58,6 +58,10 @@
 * _"I chose Gatsby to quickly bootstrap a project within a React framework by combining the speed and convenience of GraphQL with a basic frontend."_
 * _"I found the GraphCMS ecommerce starter within Gatsby to take advantage of this bootstrap while embracing the Content Mesh of microservices including Stripe, Postmark, and Printful to quickly spin up a proof of concept."_
 
+* https://youtu.be/Ylmd737tw5w
+
+![startup for GraphCMS](
+
 #### API's and Microservices
 
 - **[GraphCMS](https://graphcms.com)**: Localised product content, reviews, and order management.
